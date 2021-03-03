@@ -2,7 +2,7 @@
 Defines the classes for managing backups.
 """
 
-import cPickle
+import pickle
 import cx_Logging
 import cx_ShellUtils
 import cx_Utils
